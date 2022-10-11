@@ -26,4 +26,5 @@ This project is an implementation of a multi-user database application for manag
 1. Developed stored procedures for uploading the time-table slots for a semester (by academic staff), offering a course (by faculty), registering a course (by student), ticket generation and propagation, generating the transcript (for a given studentid) and grade uploading for a course (importing from a csv file).
 2. Implemented a stored procedure to compute the current CGPA of the student.
 
+![image](https://user-images.githubusercontent.com/67869502/195025946-93de60a9-2596-404d-8668-3b84bcbfaaa6.png)
 
